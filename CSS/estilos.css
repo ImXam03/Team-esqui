@@ -1,8 +1,8 @@
-body {
-    background-color: bisque;
-}
-main{
-    display:block;   
+
+.main{
+    display:block;      
+    background-color: rgb(255, 255, 255);
+
 }
 
 .Prin{
@@ -27,11 +27,31 @@ height: 350px;
 left: 750px;
 top: 150px;
 border-image: 100px;
-float: right;
+margin-left:20rem;
+border-radius: 40px;
 }
 
 .boton{
-    background-color: rgb(73, 73, 73);
+    background-color: #2e2e2e;
     display: flex;
     margin-inline: 400px;
+    color: #2e2e2e;
+    border-radius: 1rem;
+    width:4.5rem;
+    height:1.5rem ;
+    justify-content: center;
+    align-items: center;
+}
+
+a.letra{
+    color: white;
+    text-decoration:none;
+}
+
+a.letra:hover{
+    color: #F2AE3E;
+    text-decoration:none;
+}
+.footer{
+    background-color: ;
 }
