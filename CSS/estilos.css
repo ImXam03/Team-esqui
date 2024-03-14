@@ -1,3 +1,37 @@
 body {
     background-color: bisque;
 }
+main{
+    display:block;   
+}
+
+.Prin{
+    display: flex;
+    padding-right: 500px;
+    padding-left: 300px;
+    letter-spacing: 3px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.Parrafo{
+    display: flex;
+    padding-right: 800px;
+    padding-left: 200px;
+    letter-spacing:1px;
+}
+
+.imagen-pri{
+    position: absolute;
+width: 350px;
+height: 350px;
+left: 750px;
+top: 150px;
+border-image: 100px;
+float: right;
+}
+
+.boton{
+    background-color: rgb(73, 73, 73);
+    display: flex;
+    margin-inline: 400px;
+}
