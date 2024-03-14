@@ -1,0 +1,32 @@
+
+.botones-footer {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin: auto;
+}
+
+button.botones-ClickUp {
+    background-color: black;
+    color: #9c9c9c;
+}
+
+button.botones-Dropbox {
+    background-color: black;
+    color: #9c9c9c;
+}
+
+button.botones-PAYCHEX {
+    background-color: black;
+    color: #9c9c9c;
+}
+
+button.botones-elastic {
+    background-color: black;
+    color: #9c9c9c;
+}
+
+button.botones-stripe {
+    background-color: black;
+    color: #9c9c9c;
+}
