@@ -3,30 +3,41 @@
     display: flex;
     list-style: none;
     gap: 40px;
-    margin: auto;
+    margin: 20px;
+    border-color: #9c9c9c ;
 }
 
 button.botones-ClickUp {
     background-color: black;
     color: #9c9c9c;
+    padding: 20px 40px;
+    margin: 20px
 }
 
 button.botones-Dropbox {
     background-color: black;
     color: #9c9c9c;
+    padding: 20px 40px;
+    margin: 20px
 }
 
 button.botones-PAYCHEX {
     background-color: black;
     color: #9c9c9c;
+    padding: 20px 40px;
+    margin: 20px
 }
 
 button.botones-elastic {
     background-color: black;
     color: #9c9c9c;
+    padding: 20px 40px;
+    margin: 20px
 }
 
 button.botones-stripe {
     background-color: black;
     color: #9c9c9c;
+    padding: 20px 40px;
+    margin: 20px
 }
