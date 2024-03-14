@@ -1,3 +1,7 @@
+.header{
+    background-color: black;
+}
+
 #logo_main {
     width: 15rem;
     height: 15rem;
@@ -6,25 +10,31 @@
     margin-right: auto;
 }
 
+
 .links {
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
+    gap: 4rem;
+    background-color: #2E2E2E;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    height: 4.3rem;
+    border-radius: 1rem;
 }
 
 a.Home_link,
 a.Main_link,
-a.footer_link{
-    margin: 1rem;
+a.Footer_link{
     text-decoration: none;
-    
+    color: white;
 }
 
 a.Home_link:hover,
 a.Main_link:hover,
-a.footer_link:hover{
-    color: gold;
+a.Footer_link:hover{
+    color: #F2AE3E;
     
 }
