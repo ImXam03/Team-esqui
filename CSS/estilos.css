@@ -1,5 +1,5 @@
 
-.main{
+#main{
     display:block;      
     background-color: rgb(255, 255, 255);
 
@@ -51,7 +51,4 @@ a.letra{
 a.letra:hover{
     color: #F2AE3E;
     text-decoration:none;
-}
-.footer{
-    background-color: ;
 }
