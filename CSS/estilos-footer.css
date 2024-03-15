@@ -1,0 +1,54 @@
+ 
+
+
+.botones-footer {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding: 0;
+    }
+
+button.botones-ClickUp {
+    background-color: black;
+    color: #9c9c9c;
+    padding: 20px 40px;
+    border: 1px solid #9c9c9c;
+    border-radius: 10px
+}
+
+button.botones-Dropbox {
+    background-color: black;
+    color: #9c9c9c;
+    padding: 20px 40px;
+    border: 1px solid #9c9c9c;
+    border-radius: 10px
+}
+
+button.botones-PAYCHEX {
+    background-color: black;
+    color: #9c9c9c;
+    padding: 20px 40px;
+    border: 1px solid #9c9c9c;
+    border-radius: 10px
+}
+
+button.botones-elastic {
+    background-color: black;
+    color: #9c9c9c;
+    padding: 20px 40px;
+    border: 1px solid #9c9c9c;
+    border-radius: 10px
+}
+
+button.botones-stripe {
+    background-color: black;
+    color: #9c9c9c;
+    padding: 20px 40px;
+    border: 1px solid #9c9c9c;
+    border-radius: 10px
+}
+
+p {
+    margin: 0;
+    color: #ffffff;
+}
