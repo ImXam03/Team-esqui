@@ -1,11 +1,15 @@
 
+body {
+    background-color: bisque;
+}
+
 .botones-footer {
     padding: 25px;
 }
 
 #main{
-    display:block;      
-    background-color: rgb(255, 255, 255);
+     
+    background-color: rgb(0, 0, 0);
 
 }
 
@@ -14,32 +18,40 @@
     letter-spacing: 3px;
     padding-top: 10px;
     padding-bottom: 15px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 600px;
+    margin-right: 500px;
+    color: #ffffff;
 }
 .Parrafo{
     display: flex;
-    margin-left: auto;
-    margin-right: 800px;
+    margin-left: 600px;
+    margin-right: 500px;
     letter-spacing:1px;
+    color: rgb(255, 255, 255);
+    padding-bottom: 3rem;
 }
 
 
 .boton{
     background-color: #2e2e2e;
+    display: block;
     display: flex;
-    margin-inline: 400px;
-    color: #2e2e2e;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
     border-radius: 1rem;
     width:4.5rem;
     height:1.5rem ;
-    justify-content: center;
-    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    
 }
 
 a.letra{
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration:none;
+ 
 }
 
 a.letra:hover{
@@ -47,8 +59,11 @@ a.letra:hover{
     text-decoration:none;
 }
 #Imagen-main{
-    width: 40%;
-    height: 40%;
+    width: 50%;
+    height: 50%;
     border-radius: 40px;
-    justify-content: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
