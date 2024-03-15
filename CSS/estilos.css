@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
-=======
+
 #main{
     display:block;      
     background-color: rgb(255, 255, 255);
@@ -9,29 +8,19 @@
 
 .Prin{
     display: flex;
-    padding-right: 500px;
-    padding-left: 300px;
     letter-spacing: 3px;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Parrafo{
     display: flex;
-    padding-right: 800px;
-    padding-left: 200px;
+    margin-left: auto;
+    margin-right: 800px;
     letter-spacing:1px;
 }
 
-.imagen-pri{
-    position: absolute;
-width: 350px;
-height: 350px;
-left: 750px;
-top: 150px;
-border-image: 100px;
-margin-left:20rem;
-border-radius: 40px;
-}
 
 .boton{
     background-color: #2e2e2e;
@@ -54,4 +43,9 @@ a.letra:hover{
     color: #F2AE3E;
     text-decoration:none;
 }
->>>>>>> feature/main
+#Imagen-main{
+    width: 40%;
+    height: 40%;
+    border-radius: 40px;
+    justify-content: right;
+}
