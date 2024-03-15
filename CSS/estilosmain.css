@@ -1,0 +1,57 @@
+
+<<<<<<< HEAD
+=======
+#main{
+    display:block;      
+    background-color: rgb(255, 255, 255);
+
+}
+
+.Prin{
+    display: flex;
+    padding-right: 500px;
+    padding-left: 300px;
+    letter-spacing: 3px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.Parrafo{
+    display: flex;
+    padding-right: 800px;
+    padding-left: 200px;
+    letter-spacing:1px;
+}
+
+.imagen-pri{
+    position: absolute;
+width: 350px;
+height: 350px;
+left: 750px;
+top: 150px;
+border-image: 100px;
+margin-left:20rem;
+border-radius: 40px;
+}
+
+.boton{
+    background-color: #2e2e2e;
+    display: flex;
+    margin-inline: 400px;
+    color: #2e2e2e;
+    border-radius: 1rem;
+    width:4.5rem;
+    height:1.5rem ;
+    justify-content: center;
+    align-items: center;
+}
+
+a.letra{
+    color: white;
+    text-decoration:none;
+}
+
+a.letra:hover{
+    color: #F2AE3E;
+    text-decoration:none;
+}
+>>>>>>> feature/main
