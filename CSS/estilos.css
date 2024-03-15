@@ -1,6 +1,6 @@
 
 body {
-    background-color: bisque;
+    background-color: black
 }
 
 .botones-footer {
@@ -18,14 +18,14 @@ body {
     letter-spacing: 3px;
     padding-top: 10px;
     padding-bottom: 15px;
-    margin-left: 600px;
-    margin-right: 500px;
+    justify-content: center;
+    align-items: center;
     color: #ffffff;
 }
 .Parrafo{
     display: flex;
-    margin-left: 600px;
-    margin-right: 500px;
+    margin-left: 30rem;
+    margin-right: 30rem;
     letter-spacing:1px;
     color: rgb(255, 255, 255);
     padding-bottom: 3rem;
