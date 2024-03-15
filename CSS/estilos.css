@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body {
     background-color: bisque;
 }
@@ -9,3 +10,56 @@ body {
 =======
 
 >>>>>>> 27f20bf66900faf2019efcbf85947f9679ed83f8
+=======
+
+
+#main{
+    display:block;      
+    background-color: rgb(255, 255, 255);
+
+}
+
+.Prin{
+    display: flex;
+    letter-spacing: 3px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Parrafo{
+    display: flex;
+    margin-left: auto;
+    margin-right: 800px;
+    letter-spacing:1px;
+}
+
+
+.boton{
+    background-color: #2e2e2e;
+    display: flex;
+    margin-inline: 400px;
+    color: #2e2e2e;
+    border-radius: 1rem;
+    width:4.5rem;
+    height:1.5rem ;
+    justify-content: center;
+    align-items: center;
+}
+
+a.letra{
+    color: white;
+    text-decoration:none;
+}
+
+a.letra:hover{
+    color: #F2AE3E;
+    text-decoration:none;
+}
+#Imagen-main{
+    width: 40%;
+    height: 40%;
+    border-radius: 40px;
+    justify-content: right;
+}
+>>>>>>> 71ec2411d57a61dd3b9e397e24b8ee1c634e3927
